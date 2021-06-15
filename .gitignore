@@ -1,0 +1,7 @@
+.env
+.idea/
+__pycache__/
+logger.py
+login_and_registration_errors.log
+main.py
+venv/
